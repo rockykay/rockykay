@@ -1,6 +1,6 @@
 # Hello, World! I'm [Your Name] 👨‍💻
 
-![Coding Passion](https://via.placeholder.com/800x400?text=Passionate+Coder+at+Work)
+<img src="https://via.placeholder.com/150" alt="Coder" width="150" height="150">
 
 ## 🎓 About Me
 
